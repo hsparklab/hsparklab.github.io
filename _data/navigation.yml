@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "About"
-    url: https://hsparklab.github.io/docs/quick-start-guide/
+    url: /about/
   - title: "Portfolio"
     url: https://hsparklab.github.io/about/
  #title: "Posts"
